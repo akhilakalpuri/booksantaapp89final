@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "c89-complete-code-book-santa-",
+    "slug": "snack-4dc7bb65-595f-4ae2-8d7b-9803a92d63f9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "whitehatjr/book-santa-stage-4 @ Apr 4, 2020"
+  }
+}
